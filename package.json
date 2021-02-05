@@ -1,0 +1,22 @@
+{
+  "name": "why-you-should-not-use-lodash-webpack-plugin",
+  "version": "1.0.0",
+  "description": "",
+  "primary": true,
+  "scripts": {
+    "build": "webpack --mode=production",
+    "prepare": "shx cp -r @test-packages/ node_modules/@test-packages"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "lodash-webpack-plugin": "^0.11.6",
+    "shx": "^0.3.3",
+    "webpack": "^4.44.1",
+    "webpack-bundle-analyzer": "^4.4.0",
+    "webpack-cli": "^3.3.12"
+  },
+  "dependencies": {
+    "lodash": "^4.17.20"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "name": "@test-packages/use-tonumber",
+  "version": "1.0.0",
+  "description": "third package that use _.toNumber",
+  "main": "index.js"
+}

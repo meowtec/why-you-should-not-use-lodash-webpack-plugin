@@ -1,0 +1,6 @@
+{
+  "name": "@test-packages/use-clamp",
+  "version": "1.0.0",
+  "description": "third package that use _.clamp",
+  "main": "index.js"
+}
